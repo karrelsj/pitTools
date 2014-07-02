@@ -1,4 +1,7 @@
 pitTools
 ========
+Tools for manipulating and visualizing peach pit files
 
-Tools for manipulating peach pit files
+#Dependencies:
+	networkx, lxml
+
